@@ -1,15 +1,15 @@
 # Azul_AI
-Creé una versión funcional de Azul en Python para jugar desde la consola, de 2 a 4 jugadores.
+I created a functional version of Azul in Python for console play, supporting 2 to 4 players.
 
-Incluye:
+It includes:
 
-Fábricas según el número de jugadores.
-Bolsa de 100 losetas.
-Centro de la mesa.
-Líneas de patrón.
-Muro individual para cada jugador.
-Penalizaciones del suelo.
-Puntuación horizontal y vertical.
-Bonificaciones finales por filas, columnas y colores completos.
-Ficha de primer jugador.
-Reciclaje de losetas descartadas.
+  - Factories based on the number of players.
+  - A bag of 100 tiles.
+  - The center of the table.
+  - Pattern lines.
+  - Individual player walls.
+  - Floor line penalties.
+  - Horizontal and vertical scoring.
+  - End-game bonuses for completed rows, columns, and color sets.
+  - The first-player token.
+  - Recycling of discarded tiles.
