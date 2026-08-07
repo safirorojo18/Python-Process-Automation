@@ -1,6 +1,9 @@
-pandas
-selenium
-openpyxl
-beautifulsoup4
-requests
+Python
+Pandas
+Selenium
+Beautiful Soup
+SQLite
 SQLAlchemy
+OpenPyXL
+Excel
+Logging
