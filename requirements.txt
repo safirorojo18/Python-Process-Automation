@@ -1,0 +1,6 @@
+pandas
+selenium
+openpyxl
+beautifulsoup4
+requests
+SQLAlchemy
